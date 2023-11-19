@@ -1,0 +1,1 @@
+# Sum-of-Squares-of-Special-Element-using-java-Leetcode
